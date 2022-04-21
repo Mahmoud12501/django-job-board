@@ -25,6 +25,6 @@ Blog:
     -Recent Post
     -Leave a Reply
 
-Contact
-Home
-login
+Contact:
+Home:
+login:
